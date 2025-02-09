@@ -35,6 +35,7 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 
 ## Outros 
 | N° Questão | Descrição questão | Dificuldade |
+| --- | ------- | ---------- |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Hard |
 |  | |  |
 |  |  |  |
