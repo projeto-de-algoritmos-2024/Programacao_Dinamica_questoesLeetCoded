@@ -15,7 +15,9 @@ O nosso é um projeto de questões do juíz online leetCode, que é um ambiente 
 
 ## Screenshots
 
+**Questão 188**
 
+![188](Questao-188/assents/188.png)
 
 ## Instalação 
 **Linguagens**: 
@@ -28,12 +30,12 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 
 ## Vídeo 
 
-- [Entrega 4 - Parte 1](https://youtu.be/BI8ouv2YmYU)
-- [Entrega 4 - Parte 2](https://youtu.be/tEgn-yBO8tg)
+- [Entrega 5 - Parte 1]()
+- [Entrega 5 - Parte 2]()
 
 ## Outros 
 | N° Questão | Descrição questão | Dificuldade |
-| --- | ------- | ---------- |
+| 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Hard |
 |  | |  |
 |  |  |  |
 | |  |  |
