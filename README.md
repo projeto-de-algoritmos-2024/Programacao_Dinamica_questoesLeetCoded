@@ -19,6 +19,10 @@ O nosso é um projeto de questões do juíz online leetCode, que é um ambiente 
 
 ![188](Questao-188/assents/188.png)
 
+**Questão 920**
+
+![920](Questao-920/assents/920.png)
+
 ## Instalação 
 **Linguagens**: 
 - C<br>
@@ -37,7 +41,7 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 | N° Questão | Descrição questão | Dificuldade |
 | --- | ------- | ---------- |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Hard |
-|  | |  |
+| 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/) | Hard |
 |  |  |  |
 | |  |  |
 |  | |  |
