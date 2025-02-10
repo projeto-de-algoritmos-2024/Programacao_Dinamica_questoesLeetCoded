@@ -19,6 +19,16 @@ O nosso é um projeto de questões do juíz online leetCode, que é um ambiente 
 
 ![188](Questao-188/assents/188.png)
 
+
+**Questão 72**
+
+![72](Questao-72/assents/questao_79.png)
+
+**Questão 132**
+
+![132](Questao-132/assents/132.png)
+
+
 ## Instalação 
 **Linguagens**: 
 - C<br>
@@ -37,7 +47,7 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 | N° Questão | Descrição questão | Dificuldade |
 | --- | ------- | ---------- |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | Hard |
-|  | |  |
-|  |  |  |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | Medium |
+| 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/) | Hard |
 | |  |  |
 |  | |  |
