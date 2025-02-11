@@ -47,7 +47,7 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 
 ## Vídeo 
 
-- [Entrega 6]()
+- [Entrega 6](https://youtu.be/KYg1hy2fz1g)
 
 
 ## Outros 
