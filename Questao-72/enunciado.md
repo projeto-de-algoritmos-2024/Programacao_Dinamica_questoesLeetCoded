@@ -1,7 +1,7 @@
 # 72. Edit Distance  
 
 **Solved**  
-Nivel: **Medium**  
+**Difficulty:** Medium  
 
 ## Description  
 

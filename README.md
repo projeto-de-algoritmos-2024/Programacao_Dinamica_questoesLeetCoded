@@ -31,6 +31,10 @@ O nosso é um projeto de questões do juíz online leetCode, que é um ambiente 
 
 ![920](Questao-920/assents/920.png)
 
+**Questão 140**
+
+![140](Questao-140/assents/140.png)
+
 
 ## Instalação 
 **Linguagens**: 
@@ -43,8 +47,8 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 
 ## Vídeo 
 
-- [Entrega 5 - Parte 1]()
-- [Entrega 5 - Parte 2]()
+- [Entrega 6]()
+
 
 ## Outros 
 | N° Questão | Descrição questão | Dificuldade |
@@ -53,5 +57,5 @@ Para usar, deve-se entrar no site do [leetCode](https://leetcode.com/), pesquisa
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | Medium |
 | 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/) | Hard |
 | 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/) | Hard |
-| |  |  |
-|  | |  |
+| 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/description/) | Hard |
+

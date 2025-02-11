@@ -1,7 +1,7 @@
 # 132. Palindrome Partitioning II
 
 **Solved**  
-Nivel: **Hard**  
+**Difficulty:** Hard  
 
 ## Description  
 
